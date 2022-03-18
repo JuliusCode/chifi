@@ -20,3 +20,10 @@ works as a spotify client (playback without device) or AirPlay sink (recieve fro
 one raspberry pi zero w & power supply, a hifiberry miniamp, sd card and two speakers ekulit lsm-4090a
 
 3d printed with the front on the printbed and a color change after first layer
+
+
+sound credits:
+
+bell by danarobinsondesignsgmailcom (freesound.org 377639)
+
+trombone by kirbydx (freesound.org 175409)
