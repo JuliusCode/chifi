@@ -15,6 +15,6 @@ reboot, if everything works out you should hear a bell when it's ready
 
 works as a spotify client (playback without device) or AirPlay sink (recieve from device)
 
-https://github.com/JuliusCode/chifi/raw/main/chifi-3dprint.jpg
+![my build of chifi](https://github.com/JuliusCode/chifi/raw/main/chifi-3dprint.jpg)
 
 one raspberry pi zero w, a hifiberry miniamp, sd card and two speakers ekulit lsm-4090a
