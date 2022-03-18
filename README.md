@@ -18,4 +18,5 @@ works as a spotify client (playback without device) or AirPlay sink (recieve fro
 ![my build of chifi](https://github.com/JuliusCode/chifi/raw/main/chifi-3dprint.jpg)
 
 one raspberry pi zero w & power supply, a hifiberry miniamp, sd card and two speakers ekulit lsm-4090a
+
 3d printed with the front on the printbed and a color change after first layer
