@@ -22,6 +22,9 @@ one raspberry pi zero w & power supply, a hifiberry miniamp, sd card and two spe
 3d printed with the front on the printbed and a color change after first layer
 
 
+:)
+
+
 sound credits:
 
 bell by danarobinsondesignsgmailcom (freesound.org 377639)
